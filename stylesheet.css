@@ -6,6 +6,7 @@
 }
 
 #top{
+  z-index: 1;
   backround-color: red:
   height: 10em;
   width: 90%;
