@@ -1,28 +1,28 @@
 #main{
   z-index: -1;
-  backround-color: grey;
+  background-color: grey;
   height: 100%;
   width: 100%;
 }
 
 #top{
-  backround-color: red;
+  background-color: red;
   min-height: 50px;
   min-width: 90%;
 }
 
 #nav{
-  backround-color: blue;
+  background-color: blue;
 }
 
 #area{
-  backround-color: brown;
+  background-color: brown;
 }
 
 #side{
-  backround-color: yellow;
+  background-color: yellow;
 }
 
 #bottom{
-  backround-color: green;
+  background-color: green;
 }
