@@ -6,10 +6,9 @@
 }
 
 #top{
-  z-index: 1;
   backround-color: red:
-  height: 10em;
-  width: 90%;
+  min-height: 50px;
+  min-width: 90%;
 }
 
 #nav{
