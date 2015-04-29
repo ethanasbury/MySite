@@ -1,1 +1,27 @@
+#main{
+  backround-color: grey:
+  height: 100%;
+  width: 100%;
+}
 
+#top{
+  backround-color: red:
+  height: 10em;
+  width: 90%;
+}
+
+#nav{
+  backround-color: blue:
+}
+
+#area{
+  backround-color: brown:
+}
+
+#side{
+  backround-color: yellow:
+}
+
+#bottom{
+  backround-color: green:
+}
