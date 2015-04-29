@@ -1,12 +1,12 @@
 #main{
   z-index: -1;
-  backround-color: grey:
+  backround-color: grey;
   height: 100%;
   width: 100%;
 }
 
 #top{
-  backround-color: red:
+  backround-color: red;
   min-height: 50px;
   min-width: 90%;
 }
