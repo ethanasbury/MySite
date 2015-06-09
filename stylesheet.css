@@ -4,16 +4,40 @@
   min-width: 90%;
 }
 
-#nav{
-  background-color: blue;
+ul.nav{
+  list-style-type: none;
+}
+
+li{
+  cursor: pointer; 
+}
+
+#home{
+  height: 30px;
+  width: 30px;
+}
+
+#about{
+  height: 30px;
+  width: 30px;
+}
+
+#examples{
+  height: 30px;
+  width: 30px;
 }
 
 #area{
   background-color: brown;
 }
 
-#side{
+#leftBar{
   background-color: yellow;
+}
+
+#content{
+  
+
 }
 
 #bottom{
