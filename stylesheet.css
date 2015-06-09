@@ -1,38 +1,53 @@
 #top{
-  background-color: red;
-  min-height: 50px;
-  min-width: 90%;
+  	background-color: red;
+  	min-height: 50px;
+  	min-width: 90%;
 }
 
 ul.nav{
-  list-style-type: none;
+  	list-style-type: none;
+
 }
 
 li{
-  cursor: pointer; 
+
+	cursor: pointer;
+	border: 2px solid black;
+	display: inline-block;
+	postition: relative;
+	margin-top: 10px;
+
+
 }
 
-#home{
-  height: 30px;
-  width: 30px;
+li#home{
+
+	border: 2px solid black;
+	width: auto;
+	height: 30px;
+	background-color: blue;
+	opacity: 0.50;
+	color: white;
+
 }
 
-#about{
-  height: 30px;
-  width: 30px;
+li#about{
+  	height: 30px;
+  	width: auto;
 }
 
-#examples{
-  height: 30px;
-  width: 30px;
+li#examples{
+  	height: 30px;
+  	width: auto;
 }
 
 #area{
-  background-color: brown;
+
 }
 
 #leftBar{
-  background-color: yellow;
+
+  	background-color: yellow;
 }
 
 #content{
@@ -41,5 +56,6 @@ li{
 }
 
 #bottom{
-  background-color: green;
+
+  	background-color: green;
 }
