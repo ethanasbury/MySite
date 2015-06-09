@@ -2,6 +2,7 @@
 $(document).ready(function(){
 	$("li#home").mouseenter(function(){
 		$("li#home").fadeTo('slow', 0.50)
+		/*$("li#home").effect( "bounce", {times:1}, 500 );*/
 	});
 	$("li#home").mouseleave(function(){
 		$("li#home").fadeTo('fast', 1.00)
