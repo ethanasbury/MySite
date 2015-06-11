@@ -63,31 +63,32 @@ li#examples{
 
 }
 
-#area{
-
-    height: 500px;
-    margin: 500px;
-    padding: 0;
-	
-
-}
-
 #leftBar{
-
+	
+	float: left;
   	background-color: yellow;
 	border: 2px solid black;
 	height: 300px:
-	width: 40px;
+	width: 300px;
+	margin-bottom: 10px;
 }
 
 #content{
-  	background-color: yellow;
-	height: 300px:
+	
+	float: right;
+  	background-color: orange;
+	border: 2px solid orange;
+	height: 40%:
 	width: 40px;
+	margin-bottom: 10px;
 
 }
 
 #bottom{
 
   	background-color: green;
+	height: 30px;
+	width: auto;
+	clear: both;
+	margin-top: 10px;
 }
