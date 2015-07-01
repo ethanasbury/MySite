@@ -100,16 +100,18 @@ li#examples{
 	background-color: #878787;
 	border: 2px solid #878787;
 	height: 100%;
-	width: 70.3%;
+	width: 70%;
 	margin-bottom: 10px;
 	/*overflow-y: auto;*/
 }
 
 #articles{
 	margin-top: 3px;
-	margin-left: 3px;	
-	height: auto%;
-	width: 99%;
+	margin-left: 5px;
+	Padding-left: 4px;
+	Padding-right: 4px;
+	height: auto;
+	width: auto;
 	background-color: #989595;
 }
 
